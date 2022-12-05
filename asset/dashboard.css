@@ -1,0 +1,30 @@
+
+.block_header_right div div.connect{
+    display: block;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: transparent
+}
+.block_header_right div .connect span{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+.block_header_right #con-deconn .connect nav{
+    display: block;
+}
+.block_header_right div .connect span nav {
+    display: block;
+}
+#con-decon ul{
+    display: none;
+}
+
+
+.scroll_menu{
+    border: 1px solid white;
+    border-radius: 50%;
+    padding-top: 2px;
+}
